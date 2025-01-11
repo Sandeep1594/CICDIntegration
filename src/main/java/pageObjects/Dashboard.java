@@ -15,7 +15,7 @@ import base.Utilities;
 public class Dashboard {
 	
 
-	// New comments to test CI CD test
+	// New comments to test CI CD
 	WebDriver driver = BaseClass.getDriver();
 	Utilities util = new Utilities();
 	
